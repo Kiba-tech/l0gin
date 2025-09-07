@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/",
-      "destination": "https://authsupport.duckdns.org/",
+      "source": "/(.*)",
+      "destination": "https://example.com/:1",
       "permanent": true
     }
   ]
