@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://example.com/:path",
+      "destination": "https://authsupport.duckdns.org/:path",
       "permanent": true
     }
   ]
