@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://authsupport.duckdns.org/:path",
+      "destination": "https://kitshy.dpdns.org/:path",
       "permanent": true
     }
   ]
